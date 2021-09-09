@@ -1,0 +1,4 @@
+# Uncomment the following line to enable ...
+Action php-cgi /~AB5121/cgi-bin/php-fastcgi
+
+AddDefaultCharset UTF-8
